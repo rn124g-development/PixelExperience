@@ -8,7 +8,7 @@
   "filehash": "bcdef1234567890",
   "maintainers": [
     {
-      "name": "Dummy Maintainer",
+      "name": "DummyMaintainer",
       "github_username": "dummy_maintainer",
       "ci_username": "dummy_ci_user",
       "versions": ["dummy_version"]
