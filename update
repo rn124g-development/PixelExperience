@@ -1,0 +1,21 @@
+{
+  "datetime": null,
+  "filename": "",
+  "id": "",
+  "size": null,
+  "url": "",
+  "version": "",
+  "filehash": "",
+  "maintainers": [
+    {
+      "name": "",
+      "github_username": "",
+      "ci_username": "",
+      "versions": []
+    }
+  ],
+  "error": false,
+  "donate_url": "",
+  "website_url": "",
+  "news_url": ""
+}
