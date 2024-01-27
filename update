@@ -1,17 +1,17 @@
 {
   "datetime": 1700713440,
-  "filename": "Dummy_PixelExperience_sweet-13.0-20231123-0424-OFFICIAL.zip",
+  "filename": "PixelExperience_Plus_tapas-13.0-20240127-1142-UNOFFICIAL.zip",
   "id": "123456789",
-  "size": 1234567890,
-  "url": "https://dummy-url.com/Dummy_PixelExperience_sweet-13.0-20231123-0424-OFFICIAL.zip",
+  "size": 1706355762,
+  "url": "http://69.197.150.32/PixelExperience_Plus_tapas-13.0-20240127-1142-UNOFFICIAL.zip",
   "version": "thirteen_plus",
-  "filehash": "bcdef1234567890",
+  "filehash": "ba5ce3e4dcb34cd7787312cbe660262a",
   "maintainers": [
     {
-      "name": "DummyMaintainer",
-      "github_username": "dummy_maintainer",
-      "ci_username": "dummy_ci_user",
-      "versions": ["dummy_version"]
+      "name": "Ali Hasan",
+      "github_username": "alihasan7671",
+      "ci_username": "alihasan7671",
+      "versions": ["thirteen-plus"]
     }
   ],
   "error": false,
