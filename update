@@ -1,21 +1,21 @@
 {
-  "datetime": null,
-  "filename": "",
-  "id": "",
-  "size": null,
-  "url": "",
-  "version": "",
-  "filehash": "",
+  "datetime": 1700713440,
+  "filename": "Dummy_PixelExperience_sweet-13.0-20231123-0424-OFFICIAL.zip",
+  "id": "123456789",
+  "size": 1234567890,
+  "url": "https://dummy-url.com/Dummy_PixelExperience_sweet-13.0-20231123-0424-OFFICIAL.zip",
+  "version": "13",
+  "filehash": "bcdef1234567890",
   "maintainers": [
     {
-      "name": "",
-      "github_username": "",
-      "ci_username": "",
-      "versions": []
+      "name": "Dummy Maintainer",
+      "github_username": "dummy_maintainer",
+      "ci_username": "dummy_ci_user",
+      "versions": ["dummy_version"]
     }
   ],
   "error": false,
-  "donate_url": "",
-  "website_url": "",
-  "news_url": ""
+  "donate_url": "https://dummy-url.com/donate/",
+  "website_url": "https://dummy-url.com/",
+  "news_url": "https://dummy-url.com/news/"
 }
